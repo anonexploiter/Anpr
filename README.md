@@ -4,15 +4,21 @@ Step 1. Create a new virtual environment
 ```python -m venv tfod```
 
 Step 2. Activate your virtual environment
-.\tfod\Scripts\activate 
+```
+.\tfod\Scripts\activate
+``` 
 
 Step 3. Install dependencies and add virtual environment to the Python Kernel
+```
 python -m pip install --upgrade pip
 pip install ipykernel
 python -m ipykernel install --user --name=tfodj
+```
 
 Step 4. Collect images using the Notebook.
+```
 jupyter notebook
+```
 
 Step 5. Intializing the path and download the tensorflow object detection
 
