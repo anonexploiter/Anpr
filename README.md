@@ -1,11 +1,11 @@
 git clone : 
 
 Step 1. Create a new virtual environment
-```python -m venv tfod```
+```python -m venv recv```
 
 Step 2. Activate your virtual environment
 ```
-.\tfod\Scripts\activate
+.\recv\Scripts\activate
 ``` 
 
 Step 3. Install dependencies and add virtual environment to the Python Kernel
