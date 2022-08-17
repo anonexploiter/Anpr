@@ -12,7 +12,7 @@ Step 3. Install dependencies and add virtual environment to the Python Kernel
 ```
 python -m pip install --upgrade pip
 pip install ipykernel
-python -m ipykernel install --user --name=tfodj
+python -m ipykernel install --user --name=recv
 ```
 
 Step 4. Collect images using the Notebook.
