@@ -1,4 +1,4 @@
-git clone : https://github.com/anonexploiter/Anpr.git
+```git clone  https://github.com/anonexploiter/Anpr.git```
 
 Step 1. Create a new virtual environment
 ```python -m venv recv```
