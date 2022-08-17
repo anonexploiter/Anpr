@@ -22,6 +22,8 @@ jupyter notebook
 
 Step 5. Intializing the path and download the tensorflow object detection
 
+Download ```https://www.kaggle.com/datasets/andrewmvd/car-plate-detection?resource=download``` and setting up the dataset folder for training and testing 
+
 Step 6. Creating label map for identifying and train the detection of objects ( Number plate).--> green box
 
 Step 7. Creating TF records and setup the folder for 'generated-tfrecord' to initialize the image annotations for train and test of a dataset
