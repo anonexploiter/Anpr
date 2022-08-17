@@ -26,6 +26,8 @@ Step 6. Creating label map for identifying and train the detection of objects ( 
 
 Step 7. Creating TF records and setup the folder for 'generated-tfrecord' to initialize the image annotations for train and test of a dataset
 
+Training prerequisite : https://drive.google.com/file/d/1_KmBPj0iHQr_DLinuToCpEE1BiJZfErx/view?usp=sharing
+
 Step 8. Train the dataset with generated-tfrecord to initialize the child nodes for analyzing the number plate.
 
 Step 9. Create a pipeline file for setting up the path to train the model folder.
